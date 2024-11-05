@@ -55,7 +55,7 @@ dependencies {
 
     implementation("org.jetbrains.kotlinx:kotlinx-coroutines-android:1.3.9")
 
-//    implementation ("androidx.lifecycle:lifecycle-viewmodel-ktx:$rootProject.lifecycleVersion")
-//    implementation ("androidx.lifecycle:lifecycle-livedata-ktx:$rootProject.lifecycleVersion")
-//    implementation ("androidx.lifecycle:lifecycle-common-java8:$rootProject.lifecycleVersion")
+    implementation ("androidx.lifecycle:lifecycle-viewmodel-ktx:$rootProject.lifecycleVersion")
+    implementation ("androidx.lifecycle:lifecycle-livedata-ktx:$rootProject.lifecycleVersion")
+    implementation ("androidx.lifecycle:lifecycle-common-java8:$rootProject.lifecycleVersion")
 }
